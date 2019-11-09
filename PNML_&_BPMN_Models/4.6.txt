@@ -1,0 +1,7 @@
+<A,B,C,D>
+<A,C,B,D>
+<A,E,D>
+<A,C,D>
+<A,D>
+<A,B,B,D>
+<E>

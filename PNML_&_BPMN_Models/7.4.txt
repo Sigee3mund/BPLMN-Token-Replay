@@ -1,0 +1,22 @@
+<A, C, D, E, H> 455
+<A, B, D, E, G> 191
+<A, D, C, E, H> 177
+<A, B, D, E, H> 144
+<A, C, D, E, G> 111
+<A, D, C, E, G> 82
+<A, D, B, E, H> 56
+<A, C, D, E, F, D, B, E, H> 47
+<A, D, B, E, G> 38
+<A, C, D, E, F, B, D, E, H> 33
+<A, C, D, E, F, B, D, E, G> 14
+<A, C, D, E, F, D, B, E, G> 11
+<A, D, C, E, F, C, D, E, H> 9
+<A, D, C, E, F, D, B, E, H> 8
+<A, D, C, E, F, B, D, E, G> 5
+<A, C, D, E, F, B, D, E, F, D, B, E, G> 3
+<A, D, C, E, F, D, B, E, G> 2
+<A, D, C, E, F, B, D, E, F, B, D, E, G> 2
+<A, D, C, E, F, D, B, E, F, B, D, E, H> 1
+<A, D, B, E, F, B, D, E, F, D, B, E, G> 1
+<A, D, C, E, F, D, B, E, F, C, D, E, F, D, B, E, G> 1
+
